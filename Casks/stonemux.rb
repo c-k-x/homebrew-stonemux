@@ -1,8 +1,8 @@
 cask "stonemux" do
-  version "0.6.0"
-  sha256 "cce6b4a9b948ad52a5ba6505da0ec6a3da438b791691290b4b4ddac3d886b3ed"
+  version "0.6.1"
+  sha256 "4e4e95c552e319aa9e9d009ff5fe5105215cb398fc2d5c830615d9fdca11cd5d"
 
-  url "https://github.com/c-k-x/stonemux/releases/download/v0.6.0/stonemux-macos.dmg"
+  url "https://github.com/c-k-x/stonemux/releases/download/v0.6.1/stonemux-macos.dmg"
   name "stonemux"
   desc "agent to agent terminal"
   homepage "https://github.com/c-k-x/stonemux"
